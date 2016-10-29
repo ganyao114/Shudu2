@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="number_content_textsize">10sp</dimen>
+    
+    <dimen name="ifanr_menu_label_size">12sp</dimen>
+    <dimen name="ifanr_menu_label_width">120dp</dimen>
+    <dimen name="ifanr_menu_icon_size">40dp</dimen>
+    
+    <dimen name="page_item_content_view_size">22sp</dimen>
+    
+</resources>
